@@ -1,5 +1,4 @@
 <h1 align="center"> Electricidad y Magnetismo</h1>
-<hr>
 <p align="center">
   <img src="https://www.udea.edu.co/wps/wcm/connect/udea/fc0eb8bc-8d73-44a4-8e66-7d6d5994fba7/Logo+Facultad+de+Ciencias+Exactas+y+Naturales-blanco.png?MOD=AJPERES&CVID=mRP30Df" width="500px" alt="NixOS logo" style="filter: invert(25%) sepia(99%) saturate(5000%) hue-rotate(60deg) brightness(94%) contrast(124%);"/>
 </p>
@@ -23,7 +22,7 @@
 > diego.riosp@udea.edu.co
 
 
-### Unidad 1: Campos eléctricos 
+## Unidad 1: Campos eléctricos 
 1. Carga eléctrica (discretización y conservación de la carga)
 2. Origen atómico de las cargas: conductores y aislantes
 3. Ley de Coulomb
@@ -43,7 +42,7 @@
 17. Modelo molecular de carga inducida
 18. Ley de Gauss en dieléctricos
 
-### Unidad 2: Campos magnéticos
+## Unidad 2: Campos magnéticos
 1. Campos Magnéticos
 2. Corriente eléctrica, resistencia y fuerza electromotriz
 3. Resistividad y resistencia
@@ -68,7 +67,7 @@
 22. Fuerzas entre conductores paralelos. Campo magnético de una espira
 23. Ley de Ampère y sus aplicaciones. Materiales magnéticos
 
-### Unidad 3: Electrodinámica
+## Unidad 3: Electrodinámica
 1.  Inducción electromagnética: Ley de Faraday
 2. Ley de Lenz
 3. Fuerza electromotriz de movimiento
