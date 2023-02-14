@@ -17,14 +17,17 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: main.tex
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: v${{ steps.date.outputs.date }}
+          release_name: Release v${{ steps.date.outputs.date }}
           draft: false
           prerelease: false
       - name: Upload Release Asset
