@@ -1,6 +1,6 @@
 <h1 align="center"> Electricidad y Magnetismo</h1>
 <p align="center">
-  <img src="./UdeA-Logo.png"/>
+  <img src="./UdeA-Logo.png" width="500px" alt="UdeA"/>
 </p>
 <div align="center">
 
