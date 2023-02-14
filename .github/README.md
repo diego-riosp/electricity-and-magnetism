@@ -1,6 +1,6 @@
 <h1 align="center"> Electricidad y Magnetismo</h1>
 <p align="center">
-  <img src="https://www.udea.edu.co/wps/wcm/connect/udea/fc0eb8bc-8d73-44a4-8e66-7d6d5994fba7/Logo+Facultad+de+Ciencias+Exactas+y+Naturales-blanco.png?MOD=AJPERES&CVID=mRP30Df" width="500px" alt="NixOS logo" style="filter: invert(25%) sepia(99%) saturate(5000%) hue-rotate(60deg) brightness(94%) contrast(124%);"/>
+  <img src="./UdeA-Logo.png"/>
 </p>
 <div align="center">
 
